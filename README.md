@@ -8,4 +8,3 @@
     Press the wiki tab to read more about what I am learning about!
   </body>
 </html>
-hostname
