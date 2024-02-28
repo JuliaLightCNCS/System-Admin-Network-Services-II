@@ -1,1 +1,0 @@
-﻿ssh keygen -t rsa -C "sys265"
