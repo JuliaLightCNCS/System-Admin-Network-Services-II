@@ -12,4 +12,4 @@ else
 	echo "PermitRootLogin not found in /etc/ssh/sshd_config"
 fi
 
-sydo systemctl restart sshd.service
+sudo systemctl restart sshd.service
